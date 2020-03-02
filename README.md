@@ -1,2 +1,2 @@
 # BrainGainGame
- Repo für das Spiel Brain Gain
+ Hier befindet sich der Code für meine Swift-Spiele-App "Brain Gain".
