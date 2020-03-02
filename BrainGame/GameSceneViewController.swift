@@ -11,6 +11,7 @@ import CoreData
 
 class GameSceneViewController: UIViewController {
     
+    // Deklarieren und Initialisieren von Variablen
     @IBOutlet weak var countdown: UILabel!
     var colorArray: [UIColor] = []
     var guessArray: [String] = []
